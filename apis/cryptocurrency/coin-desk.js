@@ -1,5 +1,6 @@
 // CoinDesk
 // ビットコイン価格指数
+// https://www.coindesk.com/coindesk-api
 
 const axios = require('axios');
 

@@ -1,5 +1,6 @@
 // Music Brainz
 // 曲の情報を取得
+// https://musicbrainz.org/doc/MusicBrainz_API
 
 const axios = require('axios');
 

@@ -1,5 +1,6 @@
 // Lyrics.ovh
 // 曲の歌詞を取得
+// https://lyricsovh.docs.apiary.io/
 
 const axios = require('axios');
 
