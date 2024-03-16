@@ -1,3 +1,6 @@
+// Lyrics.ovh
+// 曲の歌詞を取得
+
 const axios = require('axios');
 
 async function getRequest() {
