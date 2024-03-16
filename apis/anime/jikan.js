@@ -1,3 +1,7 @@
+// Jikan
+// アニメの情報を取得
+// https://jikan.moe/
+
 const axios = require('axios');
 
 /**
